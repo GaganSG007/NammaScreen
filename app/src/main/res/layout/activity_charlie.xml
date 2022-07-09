@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/charliie"
+    tools:context=".charlie">
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="370dp"
+        android:layout_height="165dp"
+        android:layout_marginTop="416dp"
+        android:text="777 Charlie is a 2022 Indian Kannada-language adventure comedy-drama film directed by Kiranraj K. It stars Rakshit Shetty, Sangeetha Sringeri, Raj B. Shetty, Danish Sait and Bobby Simha. It is produced by Rakshit Shetty and GS Gupta under Paramvah Studios. The film follows the journey and bonding between a lonely factory worker and a Labrador."
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/button9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="597dp"
+        android:text="Buy Ticket"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

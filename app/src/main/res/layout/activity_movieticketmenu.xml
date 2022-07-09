@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/moviee"
+    tools:context=".movieticketmenu">
+
+    <ImageButton
+        android:id="@+id/imageButton5"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:background="#FFFFFF"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/textView24"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton6"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/kgf_2_gives_yash_unique_international_record" />
+
+    <ImageButton
+        android:id="@+id/imageButton6"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:background="#FFFFFF"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/textView25"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/imageButton5"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/_77_charlie" />
+
+    <ImageButton
+        android:id="@+id/imageButton7"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:background="#000000"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/textView26"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton8"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView24"
+        app:srcCompat="@drawable/vikram_poster_kamal_haasan_0" />
+
+    <ImageButton
+        android:id="@+id/imageButton8"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:background="#FFFFFF"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/textView27"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/imageButton7"
+        app:layout_constraintTop_toBottomOf="@+id/textView25"
+        app:srcCompat="@drawable/mahaan_sevenscreenstudios_twitter_24012022_1200" />
+
+    <ImageButton
+        android:id="@+id/imageButton9"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_marginTop="485dp"
+        android:background="#FFFFFF"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/textView28"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton10"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/homemaranha3_22_1024x683" />
+
+    <ImageButton
+        android:id="@+id/imageButton10"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:background="#FFFFFF"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/textView29"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/imageButton9"
+        app:layout_constraintTop_toBottomOf="@+id/textView27"
+        app:srcCompat="@drawable/bhool_bhulaiyaa_2_box_office_film_now_aiming_for_rs__180_crores_has_a_very_good_tuesday_1" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="KGF2"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/imageButton7"
+        app:layout_constraintEnd_toStartOf="@+id/textView25"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton5" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="213dp"
+        android:layout_marginEnd="38dp"
+        android:text="777 CHARLIE"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/imageButton8"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/textView24"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton6" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="VIKRAM"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/imageButton9"
+        app:layout_constraintEnd_toStartOf="@+id/textView27"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton7" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MAHAAN"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/imageButton10"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/textView26"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton8" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="131dp"
+        android:layout_height="48dp"
+        android:text="SPIDERMAN : NO WAY HOME"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/textView29"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton9" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bhool Bhulaiyaa 2"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/textView28"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton10" />
+</androidx.constraintlayout.widget.ConstraintLayout>

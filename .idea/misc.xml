@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_bhanu.xml" value="0.25" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_bhool.xml" value="0.2359375" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_buy.xml" value="0.264" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_charlie.xml" value="0.264" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_choose.xml" value="0.2359375" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_gsign.xml" value="0.24166666666666667" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_kgf2.xml" value="0.25" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_mahaan.xml" value="0.25" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_moviet.xml" value="0.2" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_movieticketmenu.xml" value="0.2" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_prithvi.xml" value="0.264" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_sbg.xml" value="0.2" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_spidey.xml" value="0.2359375" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_sriguru.xml" value="0.25" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_thanksm.xml" value="0.25" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_thankst.xml" value="0.25" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_theatremenu.xml" value="0.2" />
+        <entry key="..\:/Downloads/MyApplicationsdgsgs/app/src/main/res/layout/activity_vikram.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
